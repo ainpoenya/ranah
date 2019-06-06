@@ -170,7 +170,7 @@ img {
 	clear: both;
 	width: 920px;
 	padding: 10px 80px 30px 40px;
-	background: url(images/ranah_content_bg.jpg) repeat-y;
+	background: url(https://res.cloudinary.com/belidomain/image/upload/v1559818145/ranah_content_bg.png) repeat-y;
 }
 
 #ranah_content #content_left {
