@@ -51,7 +51,7 @@ img {
 #header {
 	width: 980px;
 	height: 350px;
-	background: url(images/ranah_header_bg.png) no-repeat;
+	background: url(https://res.cloudinary.com/belidomain/image/upload/v1559818587/ranah_header_bg.png) no-repeat;
 	/* padding-left:10px; */
 	margin-left:10px;
 }
