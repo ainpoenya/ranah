@@ -258,7 +258,7 @@ img {
 	height: 210px;
 	padding: 0px 400px 30px 40px;
 	/* background: url(../images/ranah_bottom_panel_bg.png) no-repeat;	 */
-	background: url(http://res.cloudinary.com/belidomain/image/fetch/http://ranah-holiday.com/images/ranah_bottom_panel_bg.png) no-repeat;	
+	background: url(https://res.cloudinary.com/belidomain/image/fetch/http://ranah-holiday.com/images/ranah_bottom_panel_bg.png) no-repeat;	
 }
 
 .content_panel_section {
