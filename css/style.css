@@ -62,8 +62,8 @@ img {
 	z-index:-9999;
 }
 #header #site_logo {
-	float: right;
-	margin: 4px -4px 0px -13px;
+	float: left;
+	margin: -21px -4px 0px 0px;
 	/* width: 410px; */
 	width: 173px;
 	height: 128px;
