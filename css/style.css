@@ -48,7 +48,7 @@ img {
 	width: 980px;
 	height: 350px;
 /* 	background: url(../images/ranah_header_bg.png) no-repeat; */
-	background: url(https://res.cloudinary.com/belidomain/image/fetch/http://ranah-holiday.com/images/ranah_header_bg.png) no-repeat;
+	background: url(https://res.cloudinary.com/belidomain/image/fetch/http://ranah-holiday.com/images/ranah_header_bg_white.png) no-repeat;
 	/* padding-left:10px; */
 	margin-left:10px;
 }
