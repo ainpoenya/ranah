@@ -67,7 +67,7 @@ img {
 	/* width: 410px; */
 	width: 173px;
 	height: 128px;
-	background:url(../images/ranah_logo2021_sm.png) bottom left no-repeat;
+	background:url(https://res.cloudinary.com/belidomain/image/fetch/h_100,w_102,c_scale/http://ranah-holiday.com/images/ranah_logo2021_sm.png) bottom left no-repeat;
 }
 #header2{
 	width: 980px;
